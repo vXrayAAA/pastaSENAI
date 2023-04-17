@@ -4,7 +4,7 @@
 
 
 
-gira motor de passo no via comunicação terminal
+gira motor de passo via comunicação terminal
 
 
 #UART
